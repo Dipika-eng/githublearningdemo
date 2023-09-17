@@ -1,3 +1,4 @@
 # githublearningdemo
-this is my first Git Repository.
-autjor- Dipika Khandre
+This is my first Git Repository.
+<br>
+Author - Dipika Khandre
